@@ -3,7 +3,7 @@
 # 👋 Welcome to My GitHub!
 
 ### 💫 About Me  
-I’m **Nelayn Abbas**, a **Senior Python & AI/ML Engineer** with hands-on experience in architecting and deploying **end-to-end AI platforms, RAG pipelines, and multi-agent systems**. My expertise lies at the intersection of **machine learning, backend engineering, and cloud deployment**, where I design scalable, production-ready solutions.  
+I’m a **Senior Python & AI/ML Engineer** with hands-on experience in architecting and deploying **end-to-end AI platforms, RAG pipelines, and multi-agent systems**. My expertise lies at the intersection of **machine learning, backend engineering, and cloud deployment**, where I design scalable, production-ready solutions.  
 
 🧠 Specialized in **LLMs, Retrieval-Augmented Generation (RAG), semantic search, and AI-driven automation**.  
 💻 Proficient in **Python, Flask, FastAPI, React.js, Node.js, and cloud-native deployments (AWS, Docker, CI/CD)**.  
