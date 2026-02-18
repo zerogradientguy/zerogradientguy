@@ -14,11 +14,6 @@ I’m a **Senior Python & AI/ML Engineer** with hands-on experience in architect
 
 ---
 
-### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelayn-abbas)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([https://](https://nelaynabbas.github.io/Portfolio/))  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelaynabbas5@gmail.com)  
-
----
-
 ### 💻 Tech Stack  
 
 #### Languages  
