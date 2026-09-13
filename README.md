@@ -37,7 +37,7 @@ I’m a **Senior Python & AI/ML Engineer** with hands-on experience in architect
 ---
 
 ### 📊 GitHub Analytics  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nelaynabbas&theme=github_dark)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nelaynabbas&layout=compact&theme=github_dark&hide_border=true)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zerogradientguy&theme=github_dark)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nelaynabbas&layout=compact&theme=github_dark&hide_border=true)  
 
 ---
 
